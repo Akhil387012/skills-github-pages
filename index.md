@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+theme: minima
+title: _config.yml
 
